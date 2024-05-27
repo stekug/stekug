@@ -9,6 +9,8 @@
 
 >Okay, I'm out, see ya ;)
 
+![Imgur](https://imgur.com/Kp7i4U7.jpg)
+
 #### Things I Like:
 - The Internet
 - Dogs
@@ -16,5 +18,4 @@
 - Nature
 
 
-![Imgur](https://imgur.com/Kp7i4U7.jpg)
 
