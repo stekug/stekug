@@ -12,10 +12,10 @@
 ![Imgur](https://imgur.com/Kp7i4U7.jpg)
 
 #### Things I Like:
-- The Internet
-- Dogs
-- Motorcycles
-- Nature
+- :technologist: The Internet
+- :dog2: Dogs
+- :motorcycle: Motorcycles
+- :herb: Nature
 
 #### I am proficient with the following software and Tools:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
