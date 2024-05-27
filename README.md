@@ -8,3 +8,5 @@ I have always been very interested in technology and new technological advanceme
 If you have any questions about hardware or software, I can certainly help and support in some areas.
 
 Okay, I'm out, see ya ;)
+
+![Imgur](https://imgur.com/Kp7i4U7.jpg)
