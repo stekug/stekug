@@ -9,5 +9,12 @@
 
 >Okay, I'm out, see ya ;)
 
+#### Things I Like:
+- The Internet
+- Dogs
+- Motorcycles
+- Nature
+
+
 ![Imgur](https://imgur.com/Kp7i4U7.jpg)
 
