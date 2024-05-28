@@ -17,7 +17,6 @@
 - :motorcycle: Motorcycles
 - :herb: Nature
 
-#### I am proficient with the following software and Tools:
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
+<h3>Github Stats</h3>
+<p><img src="https://github-readme-stats.vercel.app/api?username=stekug&hide=stars,issues&show_icons=true&theme=dracula" alt="Github Stats"></p>
