@@ -9,8 +9,6 @@
 
 >Okay, I'm out, see ya ;)
 
-![Imgur](https://imgur.com/Kp7i4U7.jpg)
-
 #### Things I Like:
 - :technologist: The Internet
 - :dog2: Dogs
