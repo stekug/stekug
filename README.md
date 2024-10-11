@@ -31,7 +31,7 @@ DaVinci Resolve
 -->
 
 <h3>What I´m currently working on:</h3>
-Currently, I am working on improving my skills in HTML, CSS, JavaScript, React, Next.js, Node.js, and MongoDB. My current goal is to successfully complete the Neue Fische Bootcamp.
+I have recently completed the neue fische Bootcamp, where I focused on building projects with React, Next.js, and TypeScript. Currently, I'm deepening my knowledge in these areas and exploring additional technologies like Tailwind CSS for styling and setting up development environments using Dev Containers. My goal is to continually expand my skill set and stay up to date with modern web development trends.
 
 <h3>Github Stats</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=stekug&hide=stars,issues&show_icons=true&theme=dracula" alt="Github Stats"></p>
