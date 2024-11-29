@@ -34,4 +34,9 @@ DaVinci Resolve
 I have recently completed the neue fische Bootcamp, where I focused on building projects with React, Next.js, and TypeScript. Currently, I'm deepening my knowledge in these areas and exploring additional technologies like Tailwind CSS for styling and setting up development environments using Dev Containers. My goal is to continually expand my skill set and stay up to date with modern web development trends.
 
 <h3>Github Stats</h3>
-<p><img src="https://github-readme-stats.vercel.app/api?username=stekug&hide=stars,issues&show_icons=true&theme=dracula" alt="Github Stats"></p>
+<a href="https://github.com/stekug/github-readme-stats">  
+  <img height=175 align="center" src="https://github-readme-stats-psi-ashen-88.vercel.app/api?username=stekug&hide=stars,issues&rank_icon=github&theme=dracula" alt="stekugs Github Stats" />
+</a>
+<a href="https://github.com/stekug/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats-psi-ashen-88.vercel.app/api/top-langs/?username=stekug&layout=compact&hide_title=1&card_width=320&theme=dracula" alt="Top language used in my repos" />
+</a>
