@@ -35,8 +35,8 @@ I have recently completed the neue fische Bootcamp, where I focused on building 
 
 <h3>Github Stats</h3>
 <a href="https://github.com/stekug/github-readme-stats">  
-  <img height=175 align="center" src="https://github-readme-stats-psi-ashen-88.vercel.app/api?username=stekug&hide=stars,issues&rank_icon=github&theme=dracula" alt="stekugs Github Stats" />
+  <img height=150 align="center" src="https://github-readme-stats-psi-ashen-88.vercel.app/api?username=stekug&hide=stars,issues&rank_icon=github&theme=dracula" alt="stekugs Github Stats" />
 </a>
 <a href="https://github.com/stekug/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats-psi-ashen-88.vercel.app/api/top-langs/?username=stekug&layout=compact&hide_title=1&card_width=320&theme=dracula" alt="Top language used in my repos" />
+  <img height=150 align="center" src="https://github-readme-stats-psi-ashen-88.vercel.app/api/top-langs/?username=stekug&layout=compact&hide_title=1&card_width=320&theme=dracula" alt="Top language used in my repos" />
 </a>
